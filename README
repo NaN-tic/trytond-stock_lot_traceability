@@ -1,0 +1,20 @@
+nantic_stock_lot_traceability
+=============================
+
+The stock_lot_traceability module of the Tryton application platform.
+
+Installing
+----------
+
+See INSTALL
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
